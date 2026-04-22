@@ -1,8 +1,8 @@
-# x86-Assembly-Monoalphabetic-Substitution-Encryption-System
-Monoalphabetic encryption/decryption system written in 8086 assembly language
+# x86-Assembly-Security-Lock
+Security Lock system written in 8086 assembly language
 
 ## Table of Content
-- [8086-Assembly-Monoalphabetic-Substitution-Encryption-System](#x86-assembly-monoalphabetic-substitution-encryption-system)
+- [Security-Lock](#security-Lock)
   * [Abstract](#abstract)
   * [Author](#author)
  
